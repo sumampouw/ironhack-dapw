@@ -1,5 +1,3 @@
-# ironhack-dapw
-
 # *Ironhack Data Analytics Prework*
 
 ## Introduction
